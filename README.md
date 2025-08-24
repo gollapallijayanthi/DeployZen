@@ -68,13 +68,13 @@ DeployZen solves this by **removing the complexity** and offering a **one-click 
 
 ## ✨ Features
 
---  Upload ZIP or GitHub repo for deployment
---  Automatic static hosting with AWS S3
---  Unique short URLs with redirection
---  Project metadata tracking with DynamoDB
---  Public showcase page (**ZenHub**)
--- Secure login/signup with AWS Cognito
---  Interactive chatbot with AWS Lex
+- Upload ZIP or GitHub repo for deployment  
+- Automatic static hosting with AWS S3  
+- Unique short URLs with redirection  
+- Project metadata tracking with DynamoDB  
+- Public showcase page (**ZenHub**)  
+- Secure login/signup with AWS Cognito  
+- Interactive chatbot with AWS Lex  
 
 ---
 
