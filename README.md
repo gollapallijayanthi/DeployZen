@@ -14,13 +14,11 @@ DeployZen is a **cloud-based platform** that simplifies **static website deploym
 * [Architecture & Services](#-architecture--services)
 * [Features](#-features)
 * [Tech Stack](#-tech-stack)
-* [Screenshots](#-screenshots)
-* [Future Enhancements](#-future-enhancements)
-* [Team Members](#-team-members)
+
 
 ---
 
-## 📌 Abstract
+##  Abstract
 
 DeployZen automates the entire process of static site deployment:
 
@@ -33,7 +31,7 @@ DeployZen automates the entire process of static site deployment:
 
 ---
 
-## 🛠 Problem Overview
+##  Problem Overview
 
 Students and beginners often struggle with deploying websites on cloud platforms like AWS due to:
 
@@ -45,7 +43,7 @@ DeployZen solves this by **removing the complexity** and offering a **one-click 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Quick and seamless static website deployment
 * Support for both **ZIP upload** and **GitHub repo deployment**
@@ -70,17 +68,17 @@ DeployZen solves this by **removing the complexity** and offering a **one-click 
 
 ## ✨ Features
 
-✅ Upload ZIP or GitHub repo for deployment
-✅ Automatic static hosting with AWS S3
-✅ Unique short URLs with redirection
-✅ Project metadata tracking with DynamoDB
-✅ Public showcase page (**ZenHub**)
-✅ Secure login/signup with AWS Cognito
-✅ Interactive chatbot with AWS Lex
+--  Upload ZIP or GitHub repo for deployment
+--  Automatic static hosting with AWS S3
+--  Unique short URLs with redirection
+--  Project metadata tracking with DynamoDB
+--  Public showcase page (**ZenHub**)
+-- Secure login/signup with AWS Cognito
+--  Interactive chatbot with AWS Lex
 
 ---
 
-## 🖥 Tech Stack
+##  Tech Stack
 
 * **Backend**: Flask (Python) on EC2
 * **Frontend**: HTML + Tailwind CSS
@@ -89,5 +87,5 @@ DeployZen solves this by **removing the complexity** and offering a **one-click 
 
 
 
-🔥 *DeployZen makes cloud deployment effortless, scalable, and beginner-friendly.*
+*DeployZen makes cloud deployment effortless, scalable, and beginner-friendly.*
 
